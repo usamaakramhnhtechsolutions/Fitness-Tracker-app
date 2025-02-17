@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Exercises from "../asset/img/exercises.jpg";
+import Exercises from "../asset/img/exercises (1).webp";
 import Exer from "../asset/images/category_chest.jpg";
 // import Exer2 from "../asset/images/blank.png";
 import Exer3 from "../asset/images/category_biceps.jpg"

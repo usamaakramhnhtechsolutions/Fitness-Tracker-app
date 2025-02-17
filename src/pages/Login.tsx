@@ -5,7 +5,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Dumbbell } from 'lucide-react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import VideoHero from '../asset/img/exercises.jpg'
+import VideoHero from '../asset/img/exercises (1).webp'
 
 export default function Login() {
   const [error, setError] = useState('');

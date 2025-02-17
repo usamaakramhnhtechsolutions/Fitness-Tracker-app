@@ -6,7 +6,7 @@ import { useFormik } from "formik";
 import * as Yup from "yup";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import VideoHero from '../asset/img/exercises.jpg'
+import VideoHero from '../asset/img/exercises (1).webp'
 
 export default function Register() {
   const navigate = useNavigate();
